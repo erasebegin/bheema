@@ -1,8 +1,5 @@
-Demo: [http://webjeda.com/bheema](http://webjeda.com/bheema)
+### [Jekyll theme by Webjeda](http://webjeda.com)
 
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
+I have adapted this Jekyll theme to be a portfolio for my freelance work.
 
 For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
