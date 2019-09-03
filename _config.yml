@@ -1,7 +1,7 @@
 #Created by webjeda - http://webjeda.com
 
-title: Bheema #Keep it short
-email: your@email.com
+title: Erasebegin Web #Keep it short
+email: chris.james.haupt@gmail.com
 
 
 baseurl: /bheema
@@ -11,7 +11,7 @@ sass:
  
  
 # Tracker
-analytics: UA-83979019-1
+# analytics: UA-83979019-1
  
 ### exclude the instructions / write-up in the README.md
 exclude:
